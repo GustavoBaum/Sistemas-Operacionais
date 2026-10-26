@@ -8,7 +8,7 @@ O **Mini-SO** é um simulador de núcleo operacional (*kernel*) desenvolvido em 
 
 ---
 
-## 🎯 Destaques do Projeto
+##  Destaques do Projeto
 
 - **Arquitetura Modular Solida:** Cada subsistema é exposto através de interfaces claras, permitindo execuções totalmente independentes ou integradas.
 - **Concorrência Real:** Algoritmos de sincronização utilizam threads nativas e estruturas concorrentes Java para demonstrar problemas clássicos sem *busy waiting*.
@@ -17,7 +17,7 @@ O **Mini-SO** é um simulador de núcleo operacional (*kernel*) desenvolvido em 
 
 ---
 
-## 🧩 Módulos do Sistema
+##  Módulos do Sistema
 
 O simulador é subdividido em 5 subsistemas especializados mais um modo de simulação integrada:
 
@@ -32,7 +32,7 @@ O simulador é subdividido em 5 subsistemas especializados mais um modo de simul
 
 ---
 
-## 🏗 Estrutura do Projeto
+##  Estrutura do Projeto
 
 A arquitetura do código-fonte é organizada dentro do pacote `minikernel`:
 
@@ -51,7 +51,7 @@ src/minikernel/
 
 ---
 
-## 🚀 Como Executar
+##  Como Executar
 
 ### Pré-requisitos
 
@@ -109,7 +109,7 @@ Para compilar e rodar manualmente via CLI:
 
 ---
 
-## 🛠 Extensibilidade
+##  Extensibilidade
 
 O projeto foi construído para facilitar a extensão acadêmica. Para adicionar um novo módulo ao simulador:
 
